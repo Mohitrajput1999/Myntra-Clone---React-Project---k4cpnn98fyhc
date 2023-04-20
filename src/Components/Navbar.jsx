@@ -168,57 +168,6 @@ bgColor="rgba(255, 255, 255, 0.97)"
 
               >KIDS</Text>
              </Box >
-
-             <Box 
-                _hover={{
-                  borderBottom:"5px solid #ec008b"
-                 }}
-                 borderBottom="5px solid rgba(0,0,0,0.0)"
-             cursor="pointer">
-              <Text fontWeight={"500"}
-              fontSize="14px"
-              color={"#282c3f"}
-          p="20px 0px"
-
-              >HOME & LIVING</Text>
-             </Box>
-
-             <Box 
-                _hover={{
-                  borderBottom:"5px solid #ec008b"
-                 }}
-                 borderBottom="5px solid rgba(0,0,0,0.0)"
-             cursor="pointer">
-              <Text fontWeight={"500"}
-              fontSize="14px"
-              color={"#282c3f"}
-          p="20px 0px"
-
-              >BEAUTY</Text>
-             </Box>
-
-             <Box 
-                _hover={{
-                  borderBottom:"5px solid #ec008b"
-                 }}
-                 borderBottom="5px solid rgba(0,0,0,0.0)"
-             cursor="pointer">
-               <Text fontWeight={"500"}
-               fontSize="14px"
-               color={"#282c3f"}
-          p="20px 0px"
-
-               >STUDIO <sup>
-                 <Badge
-                  variant={"subtle"} 
-                  colorScheme="pink"
-                  fontSize={".8em"}
-                  ml="0px"
-                  padding="0px"
-                 >NEW
-                 </Badge>
-                 </sup></Text>
-             </Box>
         </HStack>
     </Box>
 

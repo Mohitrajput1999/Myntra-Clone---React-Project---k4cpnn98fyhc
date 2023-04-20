@@ -1,4 +1,4 @@
-import { Center,Box, Image, Heading,Text,HStack,Link as ChakraLink, PinInput, PinInputField, Img, useToast } from '@chakra-ui/react'
+import { Center,Box, Image, Heading,Text,HStack,Link as ChakraLink, PinInput, PinInputField, useToast } from '@chakra-ui/react'
 import React, { useEffect, useState } from 'react'
 import { useLocation, useNavigate } from 'react-router-dom'
 import Navbar from '../Components/Navbar'
