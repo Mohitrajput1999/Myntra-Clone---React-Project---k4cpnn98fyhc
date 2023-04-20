@@ -98,7 +98,7 @@ export default function Footer(){
             <a href="">Contact Us</a>
         </div>
         <div>
-            <p>© 2022 www.myntra.com. All rights reserved.</p>
+            <p>© 2023 www.myntra.com. All rights reserved.</p>
         </div>
     </div>
 
