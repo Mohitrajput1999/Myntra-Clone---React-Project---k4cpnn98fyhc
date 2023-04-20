@@ -1,7 +1,0 @@
-.ordered{
-    display: flex;
-    /* flex-direction: column; */
-    justify-content: center;
-    justify-items: center;
-    color: red;
-}
