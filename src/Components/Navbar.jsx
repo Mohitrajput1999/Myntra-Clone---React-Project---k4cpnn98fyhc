@@ -19,7 +19,7 @@ import {
 
  } from '@chakra-ui/react'
 import React, { useRef} from 'react'
-import logo from "../Assets/logo.png"
+import logo from "../Assets/logo.webp"
 import { SearchIcon } from '@chakra-ui/icons'
 import {CiUser,CiHeart} from "react-icons/ci"
 import {BsHandbag} from "react-icons/bs"
