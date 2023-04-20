@@ -9,7 +9,7 @@ import PaymentSuccess from '../Pages/PaymentSuccess'
 import Signup from '../Pages/Signup'
 import SingleProduct from '../Pages/SingleProduct'
 import Store from '../Pages/Store'
-import Wishlist from '../Pages/Wishlist'
+import Wishlist from '../Pages/wishlist'
 import { PrivateRoute } from './PrivateRoutes'
 
 export const MainRoutes = () => {
