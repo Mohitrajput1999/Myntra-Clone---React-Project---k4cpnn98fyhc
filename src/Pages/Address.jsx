@@ -3,7 +3,7 @@ import React, { useEffect, useState } from 'react'
 import OtherNavbar from '../Components/OtherNavbar'
 import { PaymentDetains1, PaymentDetains2 } from '../Components/PaymentDetains'
 import OtherFooter from '../Components/OtherFooter'
-import logoPic from "../Assets/logoPic.png"
+import logoPic from "../Assets/logo.webp"
 import AddressModal from '../Components/AddressModal'
 import { useLocation } from 'react-router-dom'
 import axios from 'axios'

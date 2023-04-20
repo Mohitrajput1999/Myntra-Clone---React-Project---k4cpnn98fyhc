@@ -2,7 +2,7 @@ import { Center,Box, Image, Heading,Text,HStack,Link as ChakraLink, PinInput, Pi
 import React, { useEffect, useState } from 'react'
 import { useLocation, useNavigate } from 'react-router-dom'
 import Navbar from '../Components/Navbar'
-import logo from "../Assets/logo.png"
+import logo from "../Assets/logo.webp"
 import { useDispatch } from 'react-redux'
 import { login } from '../Redux/AuthReducer/Action'
 

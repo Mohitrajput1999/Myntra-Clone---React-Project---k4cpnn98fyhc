@@ -1,7 +1,7 @@
 import { HStack ,Box, Image,Divider, Text} from '@chakra-ui/react'
 import React from 'react'
 import { useNavigate } from 'react-router-dom'
-import logo from "../Assets/logo.png"
+import logo from "../Assets/logo.webp"
 
 const OtherNavbar = () => {
   const navigate=useNavigate()
