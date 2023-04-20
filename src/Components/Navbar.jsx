@@ -110,7 +110,7 @@ bgColor="rgba(255, 255, 255, 0.97)"
      src={logo}
      w="100px"
      alt="logo"
-     fallbackSrc={"https://vastra-com.netlify.app/static/media/logo.907393fa26947a42ac8a.png"}
+     fallbackSrc={"https://mumbaimirror.indiatimes.com/photo/80601325.cms"}
      cursor="pointer"
      />
     </Box>
@@ -118,7 +118,7 @@ bgColor="rgba(255, 255, 255, 0.97)"
 {/* box2.............category */}
     <Box>
         
-    
+
         <HStack 
         spacing={"20px"}
         >
